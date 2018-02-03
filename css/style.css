@@ -118,6 +118,10 @@ h2 {
   margin: 0;
 }
 
+#mainLayer {
+  z-index: 10;
+}
+
 .scene {
   position: relative;
   overflow: hidden;
