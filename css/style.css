@@ -51,6 +51,9 @@ section { overflow: hidden; }
 
 /* =Typography
 -------------------------------------------------------------- */
+
+#idracLogo {width: 100px; height:30px; }
+
 a {
     text-decoration: none;
 }
